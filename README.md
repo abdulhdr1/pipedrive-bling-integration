@@ -40,7 +40,7 @@ If everything's fine there are going to start prompting messages on the console,
 
 ## 🔶 Diagram / How it works
 
-[Diagram](https://github.com/abdulhdr/pipedrive-bling-integration/blob/master/Blank%20diagram.png)
+![Diagram](https://github.com/abdulhdr/pipedrive-bling-integration/blob/master/Blank%20diagram.png)
 
 ## 📝 License
 
